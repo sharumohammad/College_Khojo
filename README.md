@@ -53,6 +53,7 @@ Database	MongoDB Atlas
 Authentication	JWT + OTP Validation (Email / Phone)
 Deployment	Vercel (Frontend), Render/Railway (Backend)
 🏗️ Architecture Diagram
+
          ┌───────────────┐
          │   Frontend     │
          │ (React + Vite) │
