@@ -59,12 +59,16 @@ Deployment	Vercel (Frontend), Render/Railway (Backend)
          └───────┬────────┘
                  │ HTTPS Requests
                  ▼
+
+                 
         ┌──────────────────────┐
         │     Backend API      │
         │ (Node.js + Express)  │
         └───────────┬──────────┘
                     │ Database Queries
                     ▼
+
+                    
           ┌───────────────────────┐
           │   MongoDB (Atlas)     │
           └───────────────────────┘
